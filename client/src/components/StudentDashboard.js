@@ -175,7 +175,7 @@ function StudentDashboard({ setAuth }) {
             {selectResponse(setAnswer4, "q4")}
           </div>
           <div style={styles.question}>
-            <div>Are you okay?</div>
+            <div>How well do you think you are supported by the school?</div>
             {selectResponse(setAnswer5, "q5")}
           </div>
           <button
