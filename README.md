@@ -5,7 +5,7 @@
 
 ## Motivation
 
-In modern society, students are under increasing pressure due to rising expectations with little regard being given to their mental wellness. This problem is further exacerbated in a country like Singapore, where academic performance often takes precedence over personal happiness. It has been proven time and time again that ignoring our emotional and mental health can have detrimental consequences. More often than not, there is little warning and things become too late for other to intervene. One recent example would the River Valley High School incident, where mental health could have been a factor leading up to the unfortunate events that took place. (https://www.straitstimes.com/singapore/courts-crime/river-valley-high-school-student-16-charged-with-murder-of-schoolmate-13).
+In modern society, students are under increasing pressure due to rising expectations with little regard being given to their mental wellness. This problem is further exacerbated in a country like Singapore, where academic performance often takes precedence over personal happiness. It has been proven time and time again that ignoring our emotional and mental health can have detrimental consequences. More often than not, there is little warning and things become too late for others to intervene. One recent example would the River Valley High School incident, where mental health could have been a factor leading up to the unfortunate events that took place. (https://www.straitstimes.com/singapore/courts-crime/river-valley-high-school-student-16-charged-with-murder-of-schoolmate-13).
 
 **Problem 1: Students are shy/afraid to discuss mental health issues openly.**
 
